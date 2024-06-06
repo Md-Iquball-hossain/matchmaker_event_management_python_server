@@ -1,0 +1,2 @@
+# EMAIL OTP SEND SUBJECT
+EMAIL_OTP_SUBJECT = 'Your One Time Password From Match360'
